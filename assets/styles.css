@@ -41,6 +41,14 @@ nav ul li.logo img {
   vertical-align: middle;
 }
 
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+
   
   /* CSS de los containers */
 .container {
@@ -75,5 +83,14 @@ nav ul li.logo img {
   }
   
 
-  
+  /*adaptacion a pantallas mas pequeñas*/
+
+  @media (max-width: 768px) {
+  /* Estilos para tablet y celular */
+}
+
+@media (max-width: 480px) {
+  /* Estilos para celular pequeño */
+}
+
  
