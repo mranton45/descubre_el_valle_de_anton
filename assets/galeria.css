@@ -76,6 +76,6 @@
   .galeria-item img,
   .galeria-item iframe,
   .galeria-item video {
-    height: 180px; /* Mejor visual en móviles pequeños */
+    height: 180px; 
   }
 }

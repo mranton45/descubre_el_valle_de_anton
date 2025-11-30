@@ -33,7 +33,7 @@
   margin-bottom: 15px;
 }
 
-/* Justificar párrafos si los tienes dentro */
+
 .valle-text p {
   text-align: justify;
   line-height: 1.6;
@@ -65,14 +65,14 @@
   }
 
   .valle-text {
-    text-align: center; /* Mejora visual para móviles */
+    text-align: center; 
   }
 
   .valle-text p {
-    text-align: justify; /* Mantener párrafos justificados aun centrando títulos */
+    text-align: justify; 
   }
 
   .valle-image img {
-    max-width: 100%; /* Totalmente responsive */
+    max-width: 100%; 
   }
 }

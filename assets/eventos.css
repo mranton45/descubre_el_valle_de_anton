@@ -88,21 +88,21 @@
   bottom: 0;
   width: 100%;
   padding: 15px;
-  background: rgba(0, 0, 0, 0.30);  /* fondo más claro */
-  color: white !important;          /* evita interferencia del global */
+  background: rgba(0, 0, 0, 0.30);  
+  color: white !important;         
   text-align: left;
 }
 
-/* Asegura que h3 y p dentro del slider no usen tamaños del global */
+
 .noticias-slider .slide-text h3 {
   margin: 0;
-  font-size: 20px;        /* tamaño propio del slider */
+  font-size: 20px;       
   color: white !important;
 }
 
 .noticias-slider .slide-text p {
   margin: 5px 0 0 0;
-  font-size: 15px;        /* tamaño propio del slider */
+  font-size: 15px;        
   color: white !important;
 }
 

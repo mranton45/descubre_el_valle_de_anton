@@ -78,7 +78,7 @@
 @media (max-width: 768px) {
 
   .slide.active {
-    flex-direction: column;   /* Foto arriba, texto abajo */
+    flex-direction: column;   
     text-align: center;
     gap: 20px;
   }

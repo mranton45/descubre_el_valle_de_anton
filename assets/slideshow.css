@@ -82,7 +82,7 @@
  
   @media only screen and (max-width: 600px) {
     .slideshow-container {
-      height: 300px; /* reduce altura en móviles */
+      height: 300px; 
     }
     .text {
       font-size: 14px;
@@ -92,7 +92,7 @@
 
 .slide-title {
     position: absolute;
-    bottom: 20%; /* posición vertical */
+    bottom: 20%; 
     width: 100%;
     text-align: center;
     font-size: 2.5em;

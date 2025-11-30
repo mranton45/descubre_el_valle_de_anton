@@ -7,8 +7,8 @@
   border-collapse: collapse;
   table-layout: fixed;
   background: #ffffff;
-  font-family: inherit;      /* Usa Arial del global */
-  font-size: 1.1rem;         /* Tamaño mejorado */
+  font-family: inherit;      
+  font-size: 1.1rem;         
   color: #333;
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
 }
